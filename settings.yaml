@@ -12,24 +12,26 @@ pages:
   # - title: "An introduction to Open APIs"
   - title: "Recommendation 1: Spend more efficiently"
     class: "recommendation-1"
-    custom_contents: "<p><span class=\"content_sublabel\">Recommendation 1</span><br /><span class=\"content_label\">Spend more efficiently</span></p>"
-  - title: "Recommendation 2: Grow capabilities by inspiring a lost generation of technologists and digital professionals to help build a more equitable society"
+    custom_contents: "<p><span class=\"content_sublabel\">Recommendation 1</span><br /><span class=\"content_label\">Limit contract values with consultancies and technology suppliers</span></p>"
+  - title: "Recommendation 2: Grow capabilities"
     class: "recommendation-2"
-    custom_contents: "<p><span class=\"content_sublabel\">Recommendation 2</span><br /><span class=\"content_label\">Grow capabilities by inspiring a lost generation of technologists and digital professionals to help build a more equitable society</span></p>"
+    custom_contents: "<p><span class=\"content_sublabel\">Recommendation 2</span><br /><span class=\"content_label\">Inspire a lost generation of technologists and digital professionals</span></p>"
   - title: "Recommendation 3: Build Britain’s tech workforce"
-    class: "recommendation-3:"
-    custom_contents: "<p><span class=\"content_sublabel\">Recommendation 3</span><br /><span class=\"content_label\">Build Britain’s tech workforce by expanding apprenticeships and in-job training opportunities</span></p>"
-  - title: "Summary: building the future"
-    custom_contents: "<p><span class=\"content_sublabel\">Summary</span><br /><span class=\"content_label\">Building the future</span></p>"
-  - title: "About this research"
-    appendix: true
-  - title: "Potential design patterns for open APIs in the utilities sector"
-    class: "design-patterns"
-    appendix: true
-  - title: "Potential open APIs for the telecoms sector"
-    appendix: true
-  - title: "Supporting datasets to be made open"
-    appendix: true
+    class: "recommendation-3"
+    custom_contents: "<p><span class=\"content_sublabel\">Recommendation 3</span><br /><span class=\"content_label\">Expand digital, design and technology apprenticeships and in-job training opportunities</span></p>"
+  - title: "Recommendation 4: Put devolved and local governments first"
+    class: "recommendation-4"
+    custom_contents: "<p><span class=\"content_sublabel\">Recommendation 4</span><br /><span class=\"content_label\">Prioritise collaboration between central, devolved and local government</span></p>"
+  - title: "Recommendation 5: Retire legacy systems"
+    class: "recommendation-5"
+    custom_contents: "<p><span class=\"content_sublabel\">Recommendation 5</span><br /><span class=\"content_label\">Adapt our infrastructure to be fit for purpose</span></p>"
+  - title: "Recommendation 6: Earn trust and confidence"
+    class: "recommendation-6"
+    custom_contents: "<p><span class=\"content_sublabel\">Recommendation 6</span><br /><span class=\"content_label\">Invest in transparency and regulatory transformation</span></p>"
+  # - title: "Potential open APIs for the telecoms sector"
+  #   appendix: true
+  # - title: "Supporting datasets to be made open"
+  #   appendix: true
 
 # Design
 show_collaborator_logo: true
