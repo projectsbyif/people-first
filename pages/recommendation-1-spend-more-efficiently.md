@@ -1,5 +1,5 @@
 ###### Recommendation 1
-# Spend more efficiently
+# Spend more efficiently by limiting contract values with consultancies and technology suppliers at £100m over three years
 
 Much of the critical infrastructure for digital government operates via outsourcing to super agencies and third-party suppliers. Public service entrepreneur Dominic Campbell termed this “the return of fewer, bigger vendors” – an arm’s length approach to legacy platforms and essential capabilities that echoes the [creep of consultancies in other parts of government](https://www.instituteforgovernment.org.uk/publication/whitehall-monitor-2024).
 
