@@ -1,5 +1,6 @@
-###### Recommendation 1
-# Spend more efficiently by limiting contract values with consultancies and technology suppliers at £100m over three years
+###### RECOMMENDATION 1
+# Spend more efficiently 
+## Limit contract values with consultancies and technology suppliers at £100m over three years
 
 Much of the critical infrastructure for digital government operates via outsourcing to super agencies and third-party suppliers. Public service entrepreneur Dominic Campbell termed this “the return of fewer, bigger vendors” – an arm’s length approach to legacy platforms and essential capabilities that echoes the [creep of consultancies in other parts of government](https://www.instituteforgovernment.org.uk/publication/whitehall-monitor-2024).
 
@@ -15,7 +16,7 @@ Such large contracts were originally agreed initially to make procurement more m
 
 This de facto vendor lock-in is further entrenched by low levels of strategic digital knowhow in government and procurement processes that disempower new entrants, while the closure of the Digital Marketplace in April 2023 has created the perception of “a closed shop”.
 
-Meanwhile, weak regulators and existing accountability processes fail to uphold standards and lead to underperforming services. Taken together this means that “tech markets are shaped by legacy, not a vision for the future”.
+Meanwhile, weak regulators and existing accountability processes fail to uphold standards and lead to underperforming services. Taken together this means that *“tech markets are shaped by legacy, not a vision for the future”*.
 
 Capping contract levels at £100m with a maximum term of three years would reduce risk, rebalance control, and unlock resources for further transformation.
 
