@@ -35,7 +35,7 @@ html(lang="en")
       a(id="link_contents" href="#contents") Contents
       if pageCurrent == 0
         div
-          h1 People first, always:
+          h1 People first, always
           if settings.sub_title
             h2 #{settings.sub_title}
           if settings.publication_date
@@ -130,9 +130,7 @@ html(lang="en")
       footer
         if settings.show_collaborator_logo
           div(id="in_collaboration_with")
-            p In collaboration with
-            a(href=settings.collaborator_url)
-              img(src=settings.collaborator_logo_url alt=settings.collaborator_name + " logo")
+            p Written by Dr Natalie Byrom, Rachel Coldicutt OBE, Sarah Gold with generous input from practitioners" (the practitioners can link to their names in the "about these recommendations)
         if settings.show_licence
           p(class="licence")
             a(href=settings.licence_url, rel="license") #{settings.licence_text}
