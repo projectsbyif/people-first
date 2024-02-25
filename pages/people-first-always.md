@@ -35,5 +35,5 @@ To quote the [National Audit Office](https://www.nao.org.uk/reports/digital-tran
 
 To deliver better, cheaper, more accessible public services for everyone, the priority must be to build sustainable digital government capabilities that make better use of our resources and grow our national capabilities - today, and for the future. 
 
-The recommendations were developed with input from experienced digital practitioners. Quotes in the text are taken from interviews and written submissions.
+*The recommendations were developed with input from experienced digital practitioners. Quotes in the text are taken from interviews and written submissions.*
 
