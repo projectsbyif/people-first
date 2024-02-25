@@ -34,13 +34,14 @@ html(lang="en")
         a(id="site_title" href="/") #{settings.title}
       a(id="link_contents" href="#contents") Contents
       if pageCurrent == 0
+
+      img(style="position:absolute;width:100%height:100%;top:0;left:0;" src="https://peoplefirstalways.s3.eu-west-2.amazonaws.com/people-first-report_cover.jpg")
         div
           h1 People first, always
           if settings.sub_title
             h2 #{settings.sub_title}
           if settings.publication_date
             h3 #{settings.publication_date}
-          img(src="https://peoplefirstalways.s3.eu-west-2.amazonaws.com/people-first-report_cover.jpg")
 
     div(id="contents")
       div
