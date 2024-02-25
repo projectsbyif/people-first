@@ -4,7 +4,7 @@
 **/
 
 const gulp = require('gulp');
-const sass = require('gulp-sass');
+const sass = require('gulp-sass')(require('sass'));
 const uglify = require('gulp-uglify');
 const pump = require('pump');
 const nodemon = require('nodemon');
