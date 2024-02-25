@@ -1,4 +1,4 @@
-# Open APIs
+# People first, always
 
 ## Contents
 
@@ -9,9 +9,11 @@
 
 ## What is this?
 
-In collaboration with the Open Data Institute, IF researched how open APIs in the telecoms sector could lead to new classes of commercial products.
+A collaboration between Natalie Byrom, Rachel Coldicutt and Sarah Gold. 
 
-It is available at https://openapis.projectsbyif.com/.
+We know the incoming Labour government needs to be ready to deliver, and to keep on delivering throughout its first term. To achieve this, we recommend that digital public-service renewal is united behind a mission to put people first, always. 
+
+It is available at https://peoplefirstalways.tech/.
 
 ## Installation
 
