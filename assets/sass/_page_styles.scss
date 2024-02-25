@@ -5,6 +5,10 @@
     margin-bottom: $default-spacing-small;
     height: 680px;
 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
     h1, h2, h3 {
       width:80%;
       padding-left:20px;
