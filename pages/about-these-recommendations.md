@@ -1,51 +1,36 @@
-# About this research
+# About these recommendations
 
-*Some text Here*
+We began this work by identifying a set of questions to ask practitioners to respond to via a written submission. The questions were:
 
-We began the work by asking the question, **what types of data do telecom companies hold?**
+1. Please describe your area of expertise, and outline your experience too.
+2. Thinking about the existing Government’s digital agenda, what problem keeps you up at night?
+3. What structural challenges (eg. siloed departmental thinking, access to data/data sharing etc) have most impacted on your ability to deliver work in your area?
+4. In your area of expertise, where could Labour make the biggest difference and why?
+5. If you had a magic wand, what would you fix today in relation to the government's approach to digital in your area?
+6. What three things would you want to see in place by 2029?
+7. To be most meaningful to voters, what would a Labour digital vision for public services need to do?
+8. What should the vision not do? 
 
-To answer this, we interviewed five people working in the telecom sectors in the UK and France including mobile and fixed line.
+Responses from the practitioners were collated, analysed and sorted into themes.
 
-We also studied the legislation that requires telecoms companies to retain certain information.
+From these themes, we extracted 5 problem statements with 14 possible solutions. This first draft was redrafted into the current recommendations, with quotes from our contributors remaining throughout.
 
-From these conversations, we had a working idea of the data held about people that could potentially be made available through open APIs.
+### With thanks to the following contributors
 
-Next we wanted to understand some follow up questions:
+Trevor Callaghan
 
-* What could people do that they cannot do now, if open telecom APIs existed?
+Dominic Campbell
 
-* Can we demonstrate new services that people are actually interested in?
+Eliot Fineberg
 
-* What data do people understand phone & broadband providers hold about them?
+Linda Humphries
 
-* What are people’s attitudes to privacy in relation to telecoms data held about them?
+Jessica Morley
 
-* What needs do people have for the controlling telecoms data about them?
+Sam Nutt
 
-To answer these questions, we tested prototypes with ten people over two rounds of research. We showed the work and listened to reactions from diverse groups from the UK, France and further afield. There was a wide variation in attitudes to privacy as well as confidence with technology.
+Helen Salisbury
 
-The prototypes were iterated based on feedback from the research sessions with the final versions being the ones presented in this report.
+Geta Sampemane
 
-Throughout the project we came across a lot of previous work in the area. Here are a few articles and organizations that contributed to our thinking:
-
-* [OpenSignal](https://opensignal.com/) produce coverage maps based on data crowdsourced from millions of users of their smartphone app
-
-* [OpenCellid](https://opencellid.org/) crowdsource mobile phone towers and Wi-Fi access points, making the data available for anyone to download
-
-* [This report](http://www.bbc.co.uk/news/world-us-canada-42677604) about faulty technology and the missile alert in Hawaii
-
-* These Wikipedia entries about [variable-message signs](https://en.wikipedia.org/wiki/Variable-message_sign) and [machine readable addresses (RM4SCC)](https://en.wikipedia.org/wiki/RM4SCC)
-
-* This [Wired article](http://www.wired.co.uk/article/linkuk-bt-google-free-wifi-and-calls-london) on the link between corporate surveillance and Wi-Fi kiosks
-
-* This [research paper](https://reader.chathamhouse.org/regulating-data-drive-21st-century-economic-growth-looming-transatlantic-battle) on regulating Big Data
-
-* The UK government’s [policy paper](https://www.gov.uk/government/publications/uk-digital-strategy/executive-summary) on its digital strategy
-
-* [Chip](https://getchip.uk/#how-to) is building a better savings account, using encryption and AI
-
-* [Bill Monitor](https://www.billmonitor.com/)’s consumer calculator helps consumers find phone plans that fit their exact needs
-
-* This [Kaspersky article](https://www.kaspersky.com/blog/virtual-sim/11572/) on virtual SIM cards and what they could mean for the future of mobile phones
-
-* This [article](https://www.metering.com/features-analysis/smart-meters-101-frances-linky-electricity-meters/) on Linky, France’s smart energy meter
+And thanks to Peter Wells who kindly proofread our recommendations, and made suggestions for where we could improve the copy.
