@@ -25,13 +25,13 @@ Dominic Campbell
 
 Eliot Fineberg
 
-Linda Humphries
+Linda O'Halloran and TPX Impact 
 
-Jessica Morley
+Dr Jessica Morley
 
 Sam Nutt
 
-Helen Salisbury
+Dr Helen Salisbury
 
 Geta Sampemane
 
