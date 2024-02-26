@@ -11,7 +11,6 @@ pages:
     class: "cover-page"
   - title: "Introduction"
     class: "cover-page"
-    custom_contents: "<p><span class=content_label\">Introduction</span></p>"
   - title: "Recommendation 2: Grow capabilities"
   introduction-to-people-first
   - title: "Recommendation 1 Spend more efficiently"
