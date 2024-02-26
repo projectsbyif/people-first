@@ -9,6 +9,7 @@ url: CHANGEME
 pages:
   - title: "People first, always"
     class: "cover-page"
+  - title: "Introduction"
   # - title: "An introduction to Open APIs"
   - title: "Recommendation 1: Spend more efficiently"
     class: "recommendation-1"
