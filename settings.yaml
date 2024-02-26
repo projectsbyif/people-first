@@ -1,4 +1,4 @@
-# About
+O# About
 title: People first, always
 sub_title: Delivering better, cheaper, more accessible public services
 description: Labour has stated its ambition to use technologies to transform public services during its first term in government. This is a welcome and much needed commitment - but the critical improvements the UK needs cannot be delivered by technology alone. People must be at the heart of this transformation and the focus must be on delivering real benefits, changing lives, and creating new opportunities.
@@ -25,7 +25,7 @@ pages:
     custom_contents: "<p><span class=\"content_sublabel\">RECOMMENDATION 4</span><br /><span class=\"content_label\">Prioritise collaboration</span></p>"
   - title: "Recommendation 5 Retire legacy systems"
     class: "recommendation-5"
-    custom_contents: "<p><span class=\"content_sublabel\">Retire legacy systems</span><br /><span class=\"content_label\">Retire legacy systems</span></p>"
+    custom_contents: "<p><span class=\"content_sublabel\">RECOMMENDATION 5</span><br /><span class=\"content_label\">Retire legacy systems</span></p>"
   - title: "Recommendation 6 Earn trust and confidence"
     class: "recommendation-6"
     custom_contents: "<p><span class=\"content_sublabel\">RECOMMENDATION 6</span><br /><span class=\"content_label\">Earn trust and confidence</span></p>"
@@ -50,9 +50,3 @@ favicon: https://s3-eu-west-1.amazonaws.com/projectsbyif.com/shared/favicon.png
 apple_touch_icon: https://s3-eu-west-1.amazonaws.com/projectsbyif.com/shared/apple_touch_icon.png
 facebook_card_image: https://s3-eu-west-1.amazonaws.com/projectsbyif.com/shared/fb-image.png
 twitter_card_image: https://s3-eu-west-1.amazonaws.com/projectsbyif.com/shared/fb-image.png
-
-# TOC
-show_table_of_contents: true
-
-# Social media links
-twitter_card_handle: @projectsbyif
