@@ -13,22 +13,22 @@ pages:
   # - title: "An introduction to Open APIs"
   - title: "Recommendation 1: Spend more efficiently"
     class: "recommendation-1"
-    custom_contents: '<p><span class="content_sublabel">Spend more efficiently</span><br /><span class="content_label">Limit contract values with consultancies and technology suppliers</span></p>'
+    custom_contents: '<p><span class="content_sublabel">Spend more efficiently</span><br /><span class="content_label">Limit contract values with suppliers</span></p>'
   - title: "Recommendation 2: Grow capabilities"
     class: "recommendation-2"
-    custom_contents: '<p><span class="content_sublabel">Grow capabilities</span><br /><span class="content_label">Inspire a lost generation of technologists and digital professionals</span></p>'
+    custom_contents: '<p><span class="content_sublabel">Grow capabilities</span><br /><span class="content_label">Inspire a lost generation of technologists</span></p>'
   - title: "Recommendation 3: Build Britain’s tech workforce"
     class: "recommendation-3"
     custom_contents: '<p><span class="content_sublabel">Build Britain’s tech workforce</span><br /><span class="content_label">Expand digital, design and technology apprenticeships and in-job training opportunities</span></p>'
   - title: "Recommendation 4: Put devolved and local governments first"
     class: "recommendation-4"
-    custom_contents: '<p><span class="content_sublabel">Prioritise collaboration and getting things done</span><br /><span class="content_label">Prioritise collaboration between central, devolved and local government</span></p>'
+    custom_contents: '<p><span class="content_sublabel">Prioritise collaboration</span><br /><span class="content_label">Invest in 12 regional Offices of Technology Innovation</span></p>'
   - title: "Recommendation 5: Retire legacy systems"
     class: "recommendation-5"
-    custom_contents: '<p><span class="content_sublabel">Retire legacy systems</span><br /><span class="content_label">Adapt our infrastructure to be fit for purpose</span></p>'
+    custom_contents: '<p><span class="content_sublabel">Retire legacy systems</span><br /><span class="content_label">Update our infrastructure</span></p>'
   - title: "Recommendation 6: Earn trust and confidence"
     class: "recommendation-6"
-    custom_contents: '<p><span class="content_sublabel">Earn trust and confidence</span><br /><span class="content_label">Invest in transparency and regulatory transformation</span></p>'
+    custom_contents: '<p><span class="content_sublabel">Earn trust and confidence</span><br /><span class="content_label">Build robust infrastructure for trust</span></p>'
   - title: "About these recommendations"
     appendix: true
   - title: "Author Biographies"
