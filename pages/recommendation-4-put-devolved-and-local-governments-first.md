@@ -1,6 +1,6 @@
 ###### RECOMMENDATION 4
-# Put devolved and local governments first
-## Prioritise collaboration between central, devolved and local government
+# Prioritise collaboration and getting things done
+## Invest £240m in 12 regional Offices of Technology Innovation 
 
 Technology roll-out cannot be achieved by hoping that digital services developed in Whitehall and Westminster will trickle down to the rest of the county. 
 
