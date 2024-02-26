@@ -28,10 +28,10 @@ pages:
   - title: "Recommendation 6: Earn trust and confidence"
     class: "recommendation-6"
     custom_contents: '<p><span class="content_sublabel">Earn trust and confidence</span><br /><span class="content_label">Invest in transparency and regulatory transformation</span></p>'
-  # - title: "About these recommendations"
-  #   appendix: true
-  # - title: "Author Biographies"
-  #   appendix: true
+  - title: "About these recommendations"
+    appendix: true
+  - title: "Author Biographies"
+    appendix: true
 
 # Design
 show_collaborator_logo: true
