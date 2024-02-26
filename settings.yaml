@@ -11,30 +11,28 @@ pages:
     class: "cover-page"
   - title: "Introduction"
     class: "cover-page"
-  - title: "Recommendation 2: Grow capabilities"
-  introduction-to-people-first
   - title: "Recommendation 1 Spend more efficiently"
     class: "recommendation-1"
     custom_contents: "<p><span class=\"content_sublabel\">RECOMMENDATION 1</span><br /><span class=\"content_label\">Spend more efficiently</span></p>"
-  - title: "Recommendation 2: Grow capabilities"
+  - title: "Recommendation 2 Grow capabilities"
     class: "recommendation-2"
-    custom_contents: "<p><span class=\"content_sublabel\">Grow capabilities</span><br /><span class=\"content_label\">Inspire a lost generation of technologists and digital professionals</span></p>"
-  - title: "Recommendation 3: Build Britain’s tech workforce"
+    custom_contents: "<p><span class=\"content_sublabel\">RECOMMENDATION 2</span><br /><span class=\"content_label\">Grow capabilities</span></p>"
+  - title: "Recommendation 3 Build Britain’s tech workforce"
     class: "recommendation-3"
-    custom_contents: "<p><span class=\"content_sublabel\">Build Britain’s tech workforce</span><br /><span class=\"content_label\">Expand digital, design and technology apprenticeships and in-job training opportunities</span></p>"
-  - title: "Recommendation 4: Put devolved and local governments first"
+    custom_contents: "<p><span class=\"content_sublabel\">RECOMMENDATION 3</span><br /><span class=\"content_label\">Build Britain's tech workforce</span></p>"
+  - title: "Recommendation 4 Put devolved and local governments first"
     class: "recommendation-4"
-    custom_contents: "<p><span class=\"content_sublabel\">Prioritise collaboration and getting things done</span><br /><span class=\"content_label\">Prioritise collaboration between central, devolved and local government</span></p>"
-  - title: "Recommendation 5: Retire legacy systems"
+    custom_contents: "<p><span class=\"content_sublabel\">RECOMMENDATION 4</span><br /><span class=\"content_label\">Prioritise collaboration</span></p>"
+  - title: "Recommendation 5 Retire legacy systems"
     class: "recommendation-5"
-    custom_contents: "<p><span class=\"content_sublabel\">Retire legacy systems</span><br /><span class=\"content_label\">Adapt our infrastructure to be fit for purpose</span></p>"
-  - title: "Recommendation 6: Earn trust and confidence"
+    custom_contents: "<p><span class=\"content_sublabel\">Retire legacy systems</span><br /><span class=\"content_label\">Retire legacy systems</span></p>"
+  - title: "Recommendation 6 Earn trust and confidence"
     class: "recommendation-6"
-    custom_contents: "<p><span class=\"content_sublabel\">Earn trust and confidence</span><br /><span class=\"content_label\">Invest in transparency and regulatory transformation</span></p>"
-  # - title: "Potential open APIs for the telecoms sector"
-  #   appendix: true
-  # - title: "Supporting datasets to be made open"
-  #   appendix: true
+    custom_contents: "<p><span class=\"content_sublabel\">RECOMMENDATION 6</span><br /><span class=\"content_label\">Earn trust and confidence</span></p>"
+  - title: "About these recommendations"
+    appendix: true
+  - title: "Author biographies"
+    appendix: true
 
 # Design
 show_collaborator_logo: true
