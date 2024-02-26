@@ -19,7 +19,7 @@ pages:
     custom_contents: '<p><span class="content_sublabel">Grow capabilities</span><br /><span class="content_label">Inspire a lost generation of technologists</span></p>'
   - title: "Recommendation 3: Build Britain’s tech workforce"
     class: "recommendation-3"
-    custom_contents: '<p><span class="content_sublabel">Build Britain’s tech workforce</span><br /><span class="content_label">Expand digital, design and technology apprenticeships and in-job training opportunities</span></p>'
+    custom_contents: '<p><span class="content_sublabel">Build Britain’s tech workforce</span><br /><span class="content_label">Expand apprenticeships and in-job training opportunities</span></p>'
   - title: "Recommendation 4: Put devolved and local governments first"
     class: "recommendation-4"
     custom_contents: '<p><span class="content_sublabel">Prioritise collaboration</span><br /><span class="content_label">Invest in 12 regional Offices of Technology Innovation</span></p>'
