@@ -48,8 +48,8 @@ licence_url: "https://creativecommons.org/licenses/by-sa/4.0/"
 # Images
 favicon: https://s3-eu-west-1.amazonaws.com/projectsbyif.com/shared/favicon.png
 apple_touch_icon: https://s3-eu-west-1.amazonaws.com/projectsbyif.com/shared/apple_touch_icon.png
-facebook_card_image: https://s3-eu-west-1.amazonaws.com/projectsbyif.com/shared/fb-image.png
-twitter_card_image: https://s3-eu-west-1.amazonaws.com/projectsbyif.com/shared/fb-image.png
+facebook_card_image: https://peoplefirstalways.s3.eu-west-2.amazonaws.com/people-first-report_website-card.jpg
+twitter_card_image: https://peoplefirstalways.s3.eu-west-2.amazonaws.com/people-first-report_website-card.jpg
 
 # TOC
 show_table_of_contents: true
