@@ -10,9 +10,11 @@ pages:
   - title: "People first, always"
     class: "cover-page"
   # - title: "An introduction to Open APIs"
-  - title: "Recommendation 1: Sarah changed to test"
+  - title: "Introduction"
+  #   appendix: true
+  - title: "Recommendation 1: Spend more efficiently"
     class: "recommendation-1"
-    custom_contents: "<p><span class=\"content_sublabel\">Test test</span><br /><span class=\"content_label\">Limit contract values with consultancies and technology suppliers</span></p>"
+    custom_contents: "<p><span class=\"content_sublabel\">RECOMMENDATION 1</span><br /><span class=\"content_label\">Spend more efficiently</span></p>"
   - title: "Recommendation 2: Grow capabilities"
     class: "recommendation-2"
     custom_contents: "<p><span class=\"content_sublabel\">Grow capabilities</span><br /><span class=\"content_label\">Inspire a lost generation of technologists and digital professionals</span></p>"
