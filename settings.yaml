@@ -10,7 +10,7 @@ pages:
   - title: "People first, always"
     class: "cover-page"
   - title: "Introduction"
-    class: "cover-page"
+    class: "recommendation-1"
   - title: "Recommendation 1 Spend more efficiently"
     class: "recommendation-1"
     custom_contents: "<p><span class=\"content_sublabel\">RECOMMENDATION 1</span><br /><span class=\"content_label\">Spend more efficiently</span></p>"
