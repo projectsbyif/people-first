@@ -13,7 +13,7 @@ A collaboration between Natalie Byrom, Rachel Coldicutt and Sarah Gold.
 
 We know the incoming Labour government needs to be ready to deliver, and to keep on delivering throughout its first term. To achieve this, we recommend that digital public-service renewal is united behind a mission to put people first, always. 
 
-It is available at https://peoplefirstalways.tech/.
+It is available at www.peoplefirsttech.org/
 
 ## Installation
 
