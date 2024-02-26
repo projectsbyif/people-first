@@ -1,6 +1,6 @@
 # Author biographies
 
-## Natalie Byrom
+## Dr Natalie Byrom
 
 [Dr Natalie Byrom](https://www.nataliebyrom.com) is an independent researcher and policy advisor with expertise in data driven technologies and justice system reform. Between 2018 and 2020 she was Expert Advisor to HM Courts and Tribunals Service, an executive agency of the Ministry of Justice where she worked with stakeholders to develop a data strategy to underpin the ongoing £1bn programme of digital court reform. 
 
