@@ -2,7 +2,9 @@
 
 ## Natalie Byrom
 
-[Dr Natalie Byrom](https://www.linkedin.com/in/dr-natalie-byrom/) is an independent researcher and policy advisor with expertise in data driven technologies and justice system reform. Between 2018 and 2020 she was Expert Advisor to HM Courts and Tribunals Service, an executive agency of the Ministry of Justice where she worked with stakeholders to develop a data strategy to underpin the ongoing £1bn programme of digital court reform. She is a member of the BBC Expert Women network and Honorary Senior Research Fellow at UCL Laws.
+[Dr Natalie Byrom](https://www.nataliebyrom.com) is an independent researcher and policy advisor with expertise in data driven technologies and justice system reform. Between 2018 and 2020 she was Expert Advisor to HM Courts and Tribunals Service, an executive agency of the Ministry of Justice where she worked with stakeholders to develop a data strategy to underpin the ongoing £1bn programme of digital court reform. 
+
+She currently holds a number of public appointments reflecting her expertise in data policy and is a member of the BBC Expert Women network and Honorary Senior Research Fellow at UCL Laws. Her research and writing frequently appears in the legal and national press. 
 
 ## Rachel Coldicutt
 
