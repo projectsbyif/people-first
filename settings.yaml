@@ -38,7 +38,7 @@ show_collaborator_logo: true
 collaborator_name: Open Data Institute
 collaborator_logo_url: "https://s3-eu-west-1.amazonaws.com/projectsbyif.com/longform/openapis.projectsbyif.com/open-data-institute.png"
 collaborator_url: "https://theodi.org"
-cover_image: "https://s3-eu-west-1.amazonaws.com/projectsbyif.com/shared/cover-image.png"
+cover_image: "https://peoplefirstalways.s3.eu-west-2.amazonaws.com/people-first-report_cover-pink.jpg"
 
 # Licence
 show_licence: true
