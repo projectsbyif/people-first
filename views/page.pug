@@ -35,7 +35,8 @@ html(lang="en")
       a(id="link_contents" href="#contents") Contents
       if pageCurrent == 0
         //- create a cover image div.
-        div(id="cover_image" style="background-image: url(#{settings.cover_image});")
+        div(id="cover_image" style="")
+          img(src=settings.cover_image)
         div
           h1 People first, always
           if settings.sub_title
