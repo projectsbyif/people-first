@@ -1,4 +1,4 @@
-O# About
+# About
 title: People first, always
 sub_title: Delivering better, cheaper, more accessible public services
 description: Labour has stated its ambition to use technologies to transform public services during its first term in government. This is a welcome and much needed commitment - but the critical improvements the UK needs cannot be delivered by technology alone. People must be at the heart of this transformation and the focus must be on delivering real benefits, changing lives, and creating new opportunities.
@@ -9,30 +9,29 @@ url: CHANGEME
 pages:
   - title: "People first, always"
     class: "cover-page"
-  - title: "Introduction"
+  # - title: "An introduction to Open APIs"
+  - title: "Recommendation 1: Spend more efficiently"
     class: "recommendation-1"
-  - title: "Recommendation 1 Spend more efficiently"
-    class: "recommendation-1"
-    custom_contents: "<p><span class=\"content_sublabel\">RECOMMENDATION 1</span><br /><span class=\"content_label\">Spend more efficiently</span></p>"
-  - title: "Recommendation 2 Grow capabilities"
+    custom_contents: '<p><span class="content_sublabel">Spend more efficiently</span><br /><span class="content_label">Limit contract values with consultancies and technology suppliers</span></p>'
+  - title: "Recommendation 2: Grow capabilities"
     class: "recommendation-2"
-    custom_contents: "<p><span class=\"content_sublabel\">RECOMMENDATION 2</span><br /><span class=\"content_label\">Grow capabilities</span></p>"
-  - title: "Recommendation 3 Build Britain’s tech workforce"
+    custom_contents: '<p><span class="content_sublabel">Grow capabilities</span><br /><span class="content_label">Inspire a lost generation of technologists and digital professionals</span></p>'
+  - title: "Recommendation 3: Build Britain’s tech workforce"
     class: "recommendation-3"
-    custom_contents: "<p><span class=\"content_sublabel\">RECOMMENDATION 3</span><br /><span class=\"content_label\">Build Britain's tech workforce</span></p>"
-  - title: "Recommendation 4 Put devolved and local governments first"
+    custom_contents: '<p><span class="content_sublabel">Build Britain’s tech workforce</span><br /><span class="content_label">Expand digital, design and technology apprenticeships and in-job training opportunities</span></p>'
+  - title: "Recommendation 4: Put devolved and local governments first"
     class: "recommendation-4"
-    custom_contents: "<p><span class=\"content_sublabel\">RECOMMENDATION 4</span><br /><span class=\"content_label\">Prioritise collaboration</span></p>"
-  - title: "Recommendation 5 Retire legacy systems"
+    custom_contents: '<p><span class="content_sublabel">Prioritise collaboration and getting things done</span><br /><span class="content_label">Prioritise collaboration between central, devolved and local government</span></p>'
+  - title: "Recommendation 5: Retire legacy systems"
     class: "recommendation-5"
-    custom_contents: "<p><span class=\"content_sublabel\">RECOMMENDATION 5</span><br /><span class=\"content_label\">Retire legacy systems</span></p>"
-  - title: "Recommendation 6 Earn trust and confidence"
+    custom_contents: '<p><span class="content_sublabel">Retire legacy systems</span><br /><span class="content_label">Adapt our infrastructure to be fit for purpose</span></p>'
+  - title: "Recommendation 6: Earn trust and confidence"
     class: "recommendation-6"
-    custom_contents: "<p><span class=\"content_sublabel\">RECOMMENDATION 6</span><br /><span class=\"content_label\">Earn trust and confidence</span></p>"
-  - title: "About these recommendations"
-    appendix: true
-  - title: "Author biographies"
-    appendix: true
+    custom_contents: '<p><span class="content_sublabel">Earn trust and confidence</span><br /><span class="content_label">Invest in transparency and regulatory transformation</span></p>'
+  # - title: "Potential open APIs for the telecoms sector"
+  #   appendix: true
+  # - title: "Supporting datasets to be made open"
+  #   appendix: true
 
 # Design
 show_collaborator_logo: true
@@ -47,6 +46,11 @@ licence_url: "https://creativecommons.org/licenses/by-sa/4.0/"
 
 # Images
 favicon: https://s3-eu-west-1.amazonaws.com/projectsbyif.com/shared/favicon.png
-apple_touch_icon: https://peoplefirstalways.s3.eu-west-2.amazonaws.com/people-first-report_socials-1.jpg
-facebook_card_image: https://peoplefirstalways.s3.eu-west-2.amazonaws.com/people-first-report_website-card.jpg
-twitter_card_image: https://peoplefirstalways.s3.eu-west-2.amazonaws.com/people-first-report_website-card.jpg
+apple_touch_icon: https://s3-eu-west-1.amazonaws.com/projectsbyif.com/shared/apple_touch_icon.png
+facebook_card_image: https://s3-eu-west-1.amazonaws.com/projectsbyif.com/shared/fb-image.png
+twitter_card_image: https://s3-eu-west-1.amazonaws.com/projectsbyif.com/shared/fb-image.png
+
+# TOC
+show_table_of_contents: true
+# Social media links
+# twitter_card_handle: @projectsbyif
