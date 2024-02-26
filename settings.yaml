@@ -28,9 +28,9 @@ pages:
   - title: "Recommendation 6: Earn trust and confidence"
     class: "recommendation-6"
     custom_contents: '<p><span class="content_sublabel">Earn trust and confidence</span><br /><span class="content_label">Invest in transparency and regulatory transformation</span></p>'
-  # - title: "Potential open APIs for the telecoms sector"
+  # - title: "About these recommendations"
   #   appendix: true
-  # - title: "Supporting datasets to be made open"
+  # - title: "Author Biographies"
   #   appendix: true
 
 # Design
@@ -38,10 +38,11 @@ show_collaborator_logo: true
 collaborator_name: Open Data Institute
 collaborator_logo_url: "https://s3-eu-west-1.amazonaws.com/projectsbyif.com/longform/openapis.projectsbyif.com/open-data-institute.png"
 collaborator_url: "https://theodi.org"
+cover_image: "https://s3-eu-west-1.amazonaws.com/projectsbyif.com/shared/cover-image.png"
 
 # Licence
 show_licence: true
-licence_text: "This report is licenced under Creative Commons Attribution-ShareAlike 4.0 International"
+licence_text: "These recommendations are licenced under Creative Commons Attribution-ShareAlike 4.0 International"
 licence_url: "https://creativecommons.org/licenses/by-sa/4.0/"
 
 # Images
