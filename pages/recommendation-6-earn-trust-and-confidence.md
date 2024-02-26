@@ -1,4 +1,4 @@
-#### RECOMMENDATION 5
+#### RECOMMENDATION 6
 # Earn trust and confidence
 ## Build robust infrastructure for trust 
  
@@ -38,7 +38,7 @@ Meanwhile, the CDEI research notes that people with low-levels of digital confid
 
 Better stories and experiences for more people are a consequence of better institutions; while this may seem like a long-wave approach, it is not enough to run PR campaigns and seed positive media without also investing in underlying reform. Currently, public services result in a data ecosystem that is opaque to the public and their proxies; this is no basis for trust and must be urgently addressed. 
 
-**Three steps to rebuild trust and safety**
+## Three steps to rebuild trust and safety
 
 The next government should match the initial £100m investment in the AI Safety Institute to establish a robust approach to the safe and trustworthy delivery of public services. The following three steps could be embarked upon in the first 100 days of a new government, laying the foundations for an improved delivery and regulatory regime.   
 
@@ -46,7 +46,7 @@ The next government should match the initial £100m investment in the AI Safety 
 
 The next government must acknowledge that the current regulatory environment is not fit for purpose and undertake an independent expert review that maps the current state of public-service regulation, identifies the gaps and inconsistencies, and gathers evidence from a wide range of stakeholders, including civil society organisations and people with lived experience of the outcomes of poor regulation. The outcomes of this review must inform the basis of regulatory reform. 
 
-**2. Establish mechanisms for transparent and ongoing public engagement - the social infrastructure for trust** 
+**2. Establish mechanisms for transparent and ongoing public engagement - the social infrastructure for trustworthiness** 
 
 Rather than one-and-done citizen juries or participatory panels, regulatory standards must be informed by an understanding of the ongoing and emergent ways public service delivery shapes people’s lives. In particular, it is important to understand that the social impacts of technologies do not emerge in a uniform way but “slowly, then all at once”, often impacting individuals or particular communities in advance of appearing to be a more generalised harm. 
 
@@ -58,7 +58,9 @@ To mitigate this and reduce the cost and prevalence of failure, we recommend:
    
 + **Introducing clear and effective mechanisms for monitoring**, enquiry and redress in every public service, perhaps drawing on the model of National Data Guardian in the NHS.
 
-**3. Rolling out technical infrastructure for trust**
+**3. Rolling out technical infrastructure for trustworthiness**
+
+Steps to begin building the infrastructure for trust:
 
 + **Updating the [Service Standard](https://www.gov.uk/service-manual/service-standard) to include rights-based outcomes**, not only user needs, and include frameworks for anticipating unintended consequences.
    
@@ -66,6 +68,7 @@ To mitigate this and reduce the cost and prevalence of failure, we recommend:
 
 + **Piloting verifiable data structures** that bring transparency and oversight to the use of processing of data. This will enable better visibility for citizens, policymakers and civil servants of how data is used across the technology stack, improving accountability and demonstrating trustworthiness. Such approaches are already used in the private sector – for example, [Google’s Trillian](https://transparency.dev/) creates tamper-evident logs to offer assurance that data is unchanged – and are used to deliver [data-usage trackers](https://www.bennettinstitute.cam.ac.uk/blog/trust-and-accountability-patterns-digital-governme/) in public services delivered by the Estonian, Indian, and Chilean governments.  
 
-+ **Separate efforts to link data from mechanisms to facilitating data re-use** to help departments deliver better outcomes for people. At present, each government department is incentivised to create their own mechanisms to link data, undermining progress and wasting resources. Departments often combine their efforts to link data with bespoke arrangements for making it available for reuse, with limited opportunities for public oversight and scrutiny, damaging trust. Labour should end this cycle of waste by investing in the creation of an Office for Data Linkage, under the banner of the UK Statistics Authority, whose sole purpose is to link datasets across government. Arrangements for access and reuse should be transparent and overseen by the Civil Society Observatory described above.
++ **Separating efforts to link data from mechanisms to facilitating data re-use** to help departments deliver better outcomes for people. At present, each government department is incentivised to create their own mechanisms to link data, undermining progress and wasting resources. Departments often combine their efforts to link data with bespoke arrangements for making it available for reuse, with limited opportunities for public oversight and scrutiny, damaging trust. Labour should end this cycle of waste by investing in the creation of an Office for Data Linkage, under the banner of the UK Statistics Authority, whose sole purpose is to link datasets across government. Arrangements for access and reuse should be transparent and overseen by the Civil Society Observatory.
+
 
   
