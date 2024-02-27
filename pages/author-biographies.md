@@ -18,3 +18,6 @@ She was previously founding CEO of responsible technology think tank [Doteveryon
 
 Since 2022, Sarah has advised the Mayor of London's Data for London programme, guiding key stakeholders in leveraging data and infrastructure to benefit Londoners. Previously, she served as a Fellow of the RSA, and earned accolades such as Forbes 30 Under 30, Future Pioneer and New Radical among others.
 
+# Press
+
+To get in touch with the authors about these recommendations, [please send an email](mailto:hello@careful.industries).
