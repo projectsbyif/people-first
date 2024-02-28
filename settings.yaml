@@ -22,7 +22,7 @@ pages:
     custom_contents: '<p><span class="content_sublabel">Build Britain’s tech workforce</span><br /><span class="content_label">Expand apprenticeships and in-job training opportunities</span></p>'
   - title: "Recommendation 4: Put devolved and local governments first"
     class: "recommendation-4"
-    custom_contents: '<p><span class="content_sublabel">Prioritise collaboration</span><br /><span class="content_label">Invest in 12 regional Offices of Technology Innovation</span></p>'
+    custom_contents: '<p><span class="content_sublabel">Prioritise collaboration</span><br /><span class="content_label">Invest in 12 regional and national Offices of Technology Innovation</span></p>'
   - title: "Recommendation 5: Retire legacy systems"
     class: "recommendation-5"
     custom_contents: '<p><span class="content_sublabel">Retire legacy systems</span><br /><span class="content_label">Update our infrastructure</span></p>'
