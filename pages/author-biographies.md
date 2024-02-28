@@ -24,4 +24,4 @@ To get in touch with the authors about these recommendations, [please send an em
 
 # PDF copy of these recommendations
 
-These recommendations are available [in .pdf format too](https://docs.google.com/document/d/12gyERYk7vjwWYaSFIpDnqLVWJAflkupvRE-bvekLYLc/edit?usp=sharing).
+These recommendations are available [in .pdf format too](https://peoplefirstalways.s3.eu-west-2.amazonaws.com/People+first%2C+always.pdf).
