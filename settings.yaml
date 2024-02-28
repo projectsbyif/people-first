@@ -31,7 +31,7 @@ pages:
     custom_contents: '<p><span class="content_sublabel">Earn trust and confidence</span><br /><span class="content_label">Build robust infrastructure for trust</span></p>'
   - title: "About these recommendations"
     appendix: true
-  - title: "Author Biographies"
+  - title: "Author biographies"
     appendix: true
 
 # Design
