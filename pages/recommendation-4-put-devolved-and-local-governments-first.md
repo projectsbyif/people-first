@@ -1,6 +1,6 @@
 ###### RECOMMENDATION 4
 # Prioritise collaboration and getting things done
-## Invest £240m in 12 regional Offices of Technology Innovation 
+## Invest £240m in 12 regional and national Offices of Technology Innovation 
 
 Technology roll-out cannot be achieved by hoping that digital services developed in Whitehall and Westminster will trickle down to the rest of the county. 
 
@@ -32,4 +32,4 @@ Different levels of digital maturity have been [cited as a blocker for cross-gov
 
 Recent [evaluation by the GLA](https://loti.london/blog/loti-evaluation/) shows that the London Office of Technology and Innovation (LOTI) has been effective in increasing collaboration across London, working with the London boroughs to deliver more than 60 projects in areas including adult social care and homelessness. Eddie Copeland, CEO of LOTI, has recently called for [local authority sandboxes](https://loti.london/blog/local-authority-sandbox/) to support local innovation as a means of managing risk, building better supplier relationships and moving beyond incremental improvements; other regions might identify other challenges as paramount, and wish to prioritise issues such as collaborative working on data standards or deprecating legacy technologies. 
 
-While the next government may wish to reform the machinery of government at scale, there must be rapid improvements in funding and capabilities for local and regional governments. As such, **we recommend establishing 12 regional Offices of Technology and Innovation across the UK**, governed locally rather than at arm’s length from Westminster, and with a remit to develop and deliver inline with regional requirements rather than according to a one-size-fits-all approach. **£200m in funding from UKRI across five years would cover the costs of each Office of Technology Innovation while also providing investment for the delivery of local and regional projects.**
+While the next government may wish to reform the machinery of government at scale, there must be rapid improvements in funding and capabilities for local and regional governments. As such, **we recommend establishing 12 regional and national Offices of Technology and Innovation across the UK**, governed locally rather than at arm’s length from Westminster, and with a remit to develop and deliver inline with regional requirements rather than according to a one-size-fits-all approach. **£200m in funding from UKRI across five years would cover the costs of each Office of Technology Innovation while also providing investment for the delivery of local, regional and national projects.**
