@@ -48,7 +48,7 @@ licence_url: "https://creativecommons.org/licenses/by-sa/4.0/"
 
 # Images
 favicon: https://s3-eu-west-1.amazonaws.com/projectsbyif.com/shared/favicon.png
-apple_touch_icon: https://s3-eu-west-1.amazonaws.com/projectsbyif.com/shared/apple_touch_icon.png
+apple_touch_icon: https://s3-eu-west-1.amazonaws.com/projectsbyif.com/shared/favicon.png
 facebook_card_image: https://peoplefirstalways.s3.eu-west-2.amazonaws.com/people-first-report_website-card.jpg
 twitter_card_image: https://peoplefirstalways.s3.eu-west-2.amazonaws.com/people-first-report_website-card.jpg
 
