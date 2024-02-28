@@ -21,3 +21,7 @@ Since 2022, Sarah has advised the Mayor of London's Data for London programme, g
 # Press
 
 To get in touch with the authors about these recommendations, [please send an email](mailto:hello@careful.industries).
+
+# PDF copy of these recommendations
+
+These recommendations are available [in .pdf format too](https://docs.google.com/document/d/12gyERYk7vjwWYaSFIpDnqLVWJAflkupvRE-bvekLYLc/edit?usp=sharing).
