@@ -3,7 +3,7 @@ title: People first, always
 sub_title: Delivering better, cheaper, more accessible public services
 description: Labour has stated its ambition to use technologies to transform public services during its first term in government. This is a welcome and much needed commitment - but the critical improvements the UK needs cannot be delivered by technology alone. People must be at the heart of this transformation and the focus must be on delivering real benefits, changing lives, and creating new opportunities.
 publication_date: February 2024
-url: CHANGEME
+url: "https://peoplefirsttech.org"
 
 # Pages, and what order they're in
 pages:
@@ -55,4 +55,4 @@ twitter_card_image: https://peoplefirstalways.s3.eu-west-2.amazonaws.com/people-
 # TOC
 show_table_of_contents: true
 # Social media links
-# twitter_card_handle: @projectsbyif
+twitter_card_handle: "@projectsbyif"
